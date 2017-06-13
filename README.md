@@ -1,4 +1,4 @@
-# MongoDb_JavaScript
+# MongoDb_JavaScript_MapReduce
 Utilização do JavaScript dentro do MongoDB para realizar MapReduce
 
 
